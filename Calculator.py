@@ -1,4 +1,4 @@
-#Imports
+#Tkinter Imports
 from tkinter import *
 
 #Tkinter window
